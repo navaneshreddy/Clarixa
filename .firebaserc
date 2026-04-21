@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "clarixa-df28d"
+  },
+  "targets": {
+    "clarixa-df28d": {
+      "hosting": {
+        "clarixa-df28d-9349f": [
+          "clarixa-df28d-9349f"
+        ]
+      }
+    }
+  }
+}
